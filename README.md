@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Geno543">
-    <img src="https://komarev.com/ghpvc/?username=Geno543&label=Profile%20views&color=00FFFF&style=flat-square" alt="Geno543's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Geno543&amp;label=Profile%20views&amp;color=00FFFF&amp;style=flat-square" alt="Geno543's profile views" />
   </a>
 </p>
 
@@ -14,8 +14,8 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Geno543&show_icons=true&theme=merko&hide_border=true&count_private=true&cache_seconds=86400" alt="Geno543's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=Geno543&theme=merko&hide_border=true&cache_seconds=86400" alt="Geno543's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Geno543&amp;show_icons=true&amp;theme=merko&amp;hide_border=true&amp;count_private=true&amp;cache_seconds=86400" alt="Geno543's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Geno543&amp;theme=merko&amp;hide_border=true&amp;cache_seconds=86400" alt="Geno543's GitHub Streak" width="49%" />
 </p>
 
 ## 🛠️ Languages & Tools
@@ -71,7 +71,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geno543&layout=compact&theme=merko&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geno543&amp;layout=compact&amp;theme=merko&amp;hide_border=true&amp;langs_count=10&amp;cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ## 🔗 Connect with Me
