@@ -37,7 +37,7 @@ Electronic & Information Engineering at UESTC, Chengdu. I build AI systems end t
 
 ### Results
 
-- 1st, Egypt National AI Olympiad 2026 · selected for Egypt's Arab AI Olympiad team
+- 1st, Egypt National AI Olympiad 2026 · selected for Egypt's AI Olympiad team
 - Gabarti Scholar, Egyptian Olympiad in Informatics · 1 of 7 selected nationwide
 - 8th of 700+ teams, Egyptian Collegiate Programming Contest (Teens) 2026
 - Global Honorable Mention, NASA Space Apps 2025 · top 60 of 18,800 teams
