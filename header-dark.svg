@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="290" viewBox="0 0 600 290" role="img" aria-label="Mohamed Ramadan, Electronic and Information Engineering at UESTC. Pinout diagram: inputs Python, TypeScript, C++, Flutter, PyTorch, ROS; outputs SAHRA, CALM, Malaria API, ColiFormer, EOCS, UAV drone.">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="290" viewBox="0 0 600 290" role="img" aria-label="Mohamed Abdelrahim, Electronic and Information Engineering at UESTC. Pinout diagram: inputs Python, TypeScript, C++, Flutter, PyTorch, ROS; outputs SAHRA, CALM, Malaria API, ColiFormer, EOCS, UAV drone.">
 <style>
 text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;}
 .p{stroke-dasharray:10 300;stroke-dashoffset:10;animation:p 4s linear infinite;}
 @keyframes p{to{stroke-dashoffset:-300;}}
 @media (prefers-reduced-motion: reduce){.p{animation:none;stroke-dasharray:none;opacity:0;}}
 </style>
-<text x="16" y="40" font-size="30" font-weight="700" fill="#e6edf3">MOHAMED RAMADAN</text>
+<text x="16" y="40" font-size="30" font-weight="700" fill="#e6edf3">MOHAMED ABDELRAHIM</text>
 <text x="584" y="40" font-size="13" letter-spacing="1" text-anchor="end" fill="#d29922">PRELIMINARY</text>
 <rect x="16" y="53" width="568" height="2" fill="#e6edf3"/>
 <text x="16" y="79" font-size="16" fill="#9198a1">Electronic &amp; Information Eng. · UESTC</text>
