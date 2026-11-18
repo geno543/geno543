@@ -1,0 +1,38 @@
+name: Refresh streak card
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download streak cards
+        run: |
+          set -euo pipefail
+          base="https://streak-stats.demolab.com/?user=geno543&hide_border=true&disable_animations=true"
+          light="background=FFFFFF00&stroke=D0D7DE&ring=9A6700&fire=9A6700&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=9A6700&sideLabels=59636E&dates=59636E"
+          dark="background=0D111700&stroke=30363D&ring=D29922&fire=D29922&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=D29922&sideLabels=9198A1&dates=9198A1"
+          mkdir -p assets
+          curl -fsSL --retry 3 "$base&$light" -o /tmp/light.svg
+          curl -fsSL --retry 3 "$base&$dark" -o /tmp/dark.svg
+          # Only keep a download that is a real streak card, not an error page
+          for f in light dark; do
+            grep -q "<svg" /tmp/$f.svg && grep -q "Streak" /tmp/$f.svg
+            mv /tmp/$f.svg assets/streak-$f.svg
+          done
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/streak-light.svg assets/streak-dark.svg
+          git diff --cached --quiet || git commit -m "Refresh streak card"
+          git push

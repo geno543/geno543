@@ -51,7 +51,7 @@ Electronic & Information Engineering at UESTC, Chengdu. I build AI systems end t
 <div align="center">
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=geno543&hide_border=true&disable_animations=true&background=0D111700&stroke=30363D&ring=D29922&fire=D29922&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=D29922&sideLabels=9198A1&dates=9198A1">
-  <img alt="geno543's contribution streak" src="https://streak-stats.demolab.com/?user=geno543&hide_border=true&disable_animations=true&background=FFFFFF00&stroke=D0D7DE&ring=9A6700&fire=9A6700&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=9A6700&sideLabels=59636E&dates=59636E" width="440">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg">
+  <img alt="geno543's contribution streak" src="assets/streak-light.svg" width="440">
 </picture>
 </div>
