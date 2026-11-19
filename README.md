@@ -17,7 +17,7 @@ Electronic & Information Engineering at UESTC, Chengdu. I build AI systems end t
 
 **[SAHRA](https://sahra.to)** · co-founder and CTO. Table reservations for restaurants in Egypt and MENA, in Arabic and English, pre-launch. I built the Flutter diner and venue apps, the NestJS and PostgreSQL API and the Next.js site. When two people tap the same table in the same second, only one gets it: three layers of guards, about 6,000 automated tests. [Diner](https://sahra-diner-staging.onrender.com) · [Venue](https://sahra-venue-staging.onrender.com)
 
-**AB (Ayman Builds)** · engineer. We take client projects from idea to working build: AI workflow automations, robots and computer-vision systems. EGP 100,000+ in revenue so far.
+**AB Robotics** · engineer. We take client projects from idea to working build: AI workflow automations, robots and computer-vision systems. EGP 100,000+ in revenue so far.
 
 ### Selected work
 
